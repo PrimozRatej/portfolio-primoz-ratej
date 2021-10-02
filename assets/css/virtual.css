@@ -1121,6 +1121,10 @@ a:hover, a:active {
     background-color: #EF3724 !important;
 }
 
+.theme-red .bg-theme-bar {
+    background-color: #f79b91 !important;
+}
+
 .theme-red .fg-theme {
     color: #EF3724 !important;
 }
@@ -1181,6 +1185,10 @@ a:hover, a:active {
 /* Theme Blue */
 .theme-blue .bg-theme {
     background-color: #2960f7 !important;
+}
+
+.theme-blue .bg-theme-bar {
+    background-color: #93affb !important;
 }
 
 .theme-blue .fg-theme {
@@ -1245,6 +1253,10 @@ a:hover, a:active {
     background-color: #8cc63f !important;
 }
 
+.theme-green .bg-theme-bar {
+    background-color: #c5e29e !important;
+}
+
 .theme-green .fg-theme {
     color: #8cc63f !important;
 }
@@ -1307,6 +1319,10 @@ a:hover, a:active {
     background-color: #fd7e14 !important;
 }
 
+.theme-orange .bg-theme-bar {
+    background-color: #febe89 !important;
+}
+
 .theme-orange .fg-theme {
     color: #fd7e14 !important;
 }
@@ -1367,6 +1383,10 @@ a:hover, a:active {
 /* Theme Purple */
 .theme-purple .bg-theme {
     background-color: #6f42c1 !important;
+}
+
+.theme-purple .bg-theme-bar {
+    background-color: #b7a0e0 !important;
 }
 
 .theme-purple .fg-theme {
