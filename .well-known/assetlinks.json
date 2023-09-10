@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.humhub.app",
+    "sha256_cert_fingerprints":
+    ["CB:66:9A:6A:B1:C4:35:AA:DE:30:9C:BB:34:D0:B9:1C:1A:F1:E9:A3:44:8A:17:18:EB:E4:C1:DA:C1:A2:EC:DE"]
+  }
+}]
